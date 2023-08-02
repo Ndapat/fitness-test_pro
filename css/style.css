@@ -1,0 +1,26 @@
+*{
+  margin-top: 10px;
+  box-sizing: border-box;
+  background-color: whitesmoke;
+}
+
+img{  
+  width: 650px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+
+.imagename{
+  font-size: large; 
+  font-weight: bold; 
+  text-align: center;
+  color: blueviolet;
+}
+
+#heading{
+  text-align: center;
+  font-size: larger;
+  color: brown;
+  font-weight: bolder;
+}
